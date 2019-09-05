@@ -15,7 +15,7 @@ I am strictly abide to "DataSet/Examples Terms of Usage and Disclaimer" declared
 
 Quoting the same below:
 
-#DataSet / Examples Terms of Usage and Disclaimer
+##DataSet / Examples Terms of Usage and Disclaimer
 
 Throughout the course you will use examples and datasets provided through text files, Excel workbooks, SQL backup, and Access database. They are provided "as-is." Information and views expressed in the workbooks, including URL and other Internet Web site references, may change without notice. You bear the risk of using it. Some examples are for illustration only and are fictitious. No real association is intended or inferred. Microsoft makes no warranties, express or implied, with respect to the information provided here.
 
