@@ -4,7 +4,7 @@ This repository contains my assignments done for EDX course Microsoft: DAT206x A
 </br>
 This Assignment files contains my work related to following topics :</br>
 <li>Pivot Tables, Pivot Charts, Slicers </br>
-<li>Power Query  </br>
+<li>Excel Data Model, Power Query  </br>
 <li>Measures, DAX functions </br>
 <li>Data Importing </br>
 <li>Creation of mash-up between data from text-files and SQL database</br>
