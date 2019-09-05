@@ -11,11 +11,11 @@ This Assignment files contains my work related to following topics :</br>
 
 This repository is created by me only to showcase my work and proficiency in Data Analysis. 
 
-I am strictly abide to "DataSet/Examples Terms of Usage and Disclaimer" declared by EDX on website under this course.
+**I am strictly abide to "DataSet/Examples Terms of Usage and Disclaimer" declared by EDX on website under this course.**
 
 Quoting the same below:
 
-##DataSet / Examples Terms of Usage and Disclaimer
+**DataSet / Examples Terms of Usage and Disclaimer**
 
 Throughout the course you will use examples and datasets provided through text files, Excel workbooks, SQL backup, and Access database. They are provided "as-is." Information and views expressed in the workbooks, including URL and other Internet Web site references, may change without notice. You bear the risk of using it. Some examples are for illustration only and are fictitious. No real association is intended or inferred. Microsoft makes no warranties, express or implied, with respect to the information provided here.
 
@@ -31,6 +31,6 @@ Any uses of the workbooks and/or data must include the above attribution (that i
 
 By clicking any of the links to download the files, you are agreeing to the terms above.
 
-###Important
+**Important**
 
 All the data you need for this course is provided in this course. You do not need to look elsewhere, i.e. Obvience, for it. You are allowed to use the data in the context of this course, but not elsewhere.
